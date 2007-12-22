@@ -2,3 +2,6 @@
 	* First release: distro-fied it, but you really just need lib/Lister.pm.
 	It's a modulino, so you can rename it and run it directly.
 
+0.11 - Sat Dec 22 12:33:12 2007
+	* Bump to release version number
+
