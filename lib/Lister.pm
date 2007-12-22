@@ -5,7 +5,7 @@ use strict;
 use subs qw();
 use vars qw($VERSION);
 
-$VERSION = '0.10_01';
+$VERSION = '0.11';
 
 =head1 NAME
 
@@ -282,7 +282,7 @@ members of the project can shepherd this module appropriately.
 
 brian d foy, C<< <bdfoy@cpan.org> >>
 
-The idea and some of the testing came from Adam Whold.
+The idea and some of the testing came from Adam Wohld.
 
 Some bits stolen from C<mldistwatch> in the PAUSE code, by Andreas KE<ouml>nig.
 
