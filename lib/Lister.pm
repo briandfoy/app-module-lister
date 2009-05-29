@@ -9,7 +9,7 @@ $VERSION = '0.11';
 
 =head1 NAME
 
-App::Module::ListerI - List the Perl modules in @INC
+App::Module::Lister - List the Perl modules in @INC
 
 =head1 SYNOPSIS
 
