@@ -3,7 +3,7 @@
 \.lwpcookies
 Makefile$
 \.DS_Store
-\.bak
+\.bak$
 \.tar$
 \.gz$
 \.tgz$
@@ -17,3 +17,7 @@ pm_to_blib
 t/\d
 t/cover_db*
 ^cover_db\b
+\.git
+App-.*
+MYMETA.*
+\.travis\.yml

@@ -1,6 +1,6 @@
 Changes
 examples/placeholder.pl
-lib/Lister.pm
+lib/App/Module/Lister.pm
 LICENSE
 Makefile.PL
 MANIFEST			This list of files
