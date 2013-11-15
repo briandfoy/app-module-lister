@@ -1,5 +1,8 @@
 # Changes for App::Module::Lister
 
+0.14 - Fri Nov 15 23:17:37 2013
+	* Update name in module abstract (RT #90363)
+
 0.13 - Mon Sep 22 14:59:39 2008
 	* Minor cleanups and a move to git
 
