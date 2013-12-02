@@ -5,7 +5,7 @@ use strict;
 use subs qw();
 use vars qw($VERSION);
 
-$VERSION = '0.14';
+$VERSION = '0.15';
 
 =encoding utf8
 
@@ -188,7 +188,8 @@ sub eval_version {
 	my( $line, $sigil, $var ) = @_;
 	
 	my $eval = qq{ 
-		package ExtUtils::MakeMaker::_version;
+		package  # hide from PAUSE
+			ExtUtils::MakeMaker::_version;
 
 		local $sigil$var;
 		\$$var=undef; do {
