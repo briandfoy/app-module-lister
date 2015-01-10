@@ -1,10 +1,12 @@
 require 5.008;
+
+package App::Module::Lister;
 use strict;
 use warnings;
 
 use File::Spec::Functions qw(catfile);
 
-my $module    = 'App::Module::Lister';
+my $module    = __PACKAGE__;
 ( my $dist = $module ) =~ s/::/-/g;
 
 my $github    = 'https://github.com/briandfoy/app-module-lister';
