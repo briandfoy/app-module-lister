@@ -47,7 +47,7 @@ my %WriteMakefile = (
 			},
 		},
 	
-	clean  => { FILES    => q|App-Module-Lister-* *.old *.bak| },
+	clean => { FILES => "$dist-*" },
 	);
 
 sub arguments { \%WriteMakefile }
