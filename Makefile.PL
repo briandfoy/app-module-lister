@@ -5,6 +5,8 @@ use warnings;
 use File::Spec::Functions qw(catfile);
 
 my $module    = 'App::Module::Lister';
+( my $dist = $module ) =~ s/::/-/g;
+
 my $github    = 'https://github.com/briandfoy/app-module-lister';
 my $main_file = catfile( 'lib', split /::/, "$module.pm" );
 
