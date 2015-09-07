@@ -13,7 +13,7 @@ before_install:
     - source ~/travis-perl-helpers/init --auto
 
 install:
-    - cpanm --quiet --installdeps --notest . 
+    - cpanm --quiet --installdeps --notest .
     - cpanm --quiet --notest Devel::Cover::Report::Coveralls
 
 script:
