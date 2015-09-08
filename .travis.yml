@@ -1,9 +1,5 @@
 sudo: false
 
-sudo: false
-
-sudo: false
-
 language: perl
 perl:
     - "5.8"
