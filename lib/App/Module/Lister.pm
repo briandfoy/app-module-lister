@@ -285,7 +285,7 @@ Some bits stolen from C<mldistwatch> in the PAUSE code, by Andreas König.
 
 Copyright © 2007-2015, brian d foy <bdfoy@cpan.org>. All rights reserved.
 
-You may redistribute this under the same terms as Perl itself.
+You may redistribute this under the terms of the Artistic 2 license.
 
 =cut
 
