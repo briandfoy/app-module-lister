@@ -283,7 +283,7 @@ Some bits stolen from C<mldistwatch> in the PAUSE code, by Andreas König.
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright © 2007-2015, brian d foy <bdfoy@cpan.org>. All rights reserved.
+Copyright © 2007-2018, brian d foy <bdfoy@cpan.org>. All rights reserved.
 
 You may redistribute this under the terms of the Artistic 2 license.
 
