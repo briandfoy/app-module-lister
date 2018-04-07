@@ -9,11 +9,9 @@
 =for HTML <a href="http://www.metacpan.org/module/App::Module::Lister"><img src="https://img.shields.io/cpan/v/App::Module::Lister.svg" /></A>
 
 
-=for HTML <a href='https://coveralls.io/github/briandfoy/Object-Iterate?branch=master'><img src='https://coveralls.io/repos/github/briandfoy/Object-Iterate/badge.svg?branch=master' alt='Coverage Status' /></a>
+=for HTML <a href='https://coveralls.io/github/briandfoy/App-Module-Lister?branch=master'><img src='https://coveralls.io/repos/github/briandfoy/App-Module-Lister/badge.svg?branch=master' alt='Coverage Status' /></a>
 
 =for HTML <a href="https://github.com/briandfoy/app-module-lister/blob/master/LICENSE"><img src="https://img.shields.io/cpan/l/App-Module-Lister.svg" /></a>
-
-
 
 =head1 The App::Module::Lister module
 
