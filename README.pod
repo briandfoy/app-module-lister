@@ -8,7 +8,6 @@
 
 =for HTML <a href="http://www.metacpan.org/module/App::Module::Lister"><img src="https://img.shields.io/cpan/v/App::Module::Lister.svg" /></A>
 
-
 =for HTML <a href='https://coveralls.io/github/briandfoy/App-Module-Lister?branch=master'><img src='https://coveralls.io/repos/github/briandfoy/App-Module-Lister/badge.svg?branch=master' alt='Coverage Status' /></a>
 
 =for HTML <a href="https://github.com/briandfoy/app-module-lister/blob/master/LICENSE"><img src="https://img.shields.io/cpan/l/App-Module-Lister.svg" /></a>
@@ -33,17 +32,8 @@ name instead of the file location:
 
 	% perldoc App::Module::Lister
 
-You can read the documentation and inspect the meta data on one of the
-CPAN web interfaces, such as L<CPAN Search|http://search.cpan.org/dist/App-Module-Lister> or
-L<MetaCPAN|http://www.metacpan.org/module/App::Module::Lister>:
-
-=over 4
-
-=item *	L<http://search.cpan.org/dist/App-Module-Lister>
-
-=item *	L<http://www.metacpan.org/module/App::Module::Lister>
-
-=back
+You can read the documentation and inspect the meta data at
+L<MetaCPAN|http://www.metacpan.org/module/App::Module::Lister>.
 
 The standard module documentation has example uses in the SYNOPSIS
 section, but you can also look in the I<examples/> directory (if it's
