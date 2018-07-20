@@ -6,7 +6,7 @@
 
 =for HTML  <a href="https://ci.appveyor.com/project/briandfoy/app-module-lister"><img src="https://ci.appveyor.com/api/projects/status/xb6li8hgsxmpvf6l?svg=true"></a>
 
-=for HTML <a href="http://www.metacpan.org/module/App::Module::Lister"><img src="https://img.shields.io/cpan/v/App::Module::Lister.svg" /></A>
+=for HTML <a href="https://metacpan.org/pod/App::Module::Lister"><img src="https://img.shields.io/cpan/v/App::Module::Lister.svg" /></A>
 
 =for HTML <a href='https://coveralls.io/github/briandfoy/App-Module-Lister?branch=master'><img src='https://coveralls.io/repos/github/briandfoy/App-Module-Lister/badge.svg?branch=master' alt='Coverage Status' /></a>
 
@@ -23,7 +23,7 @@ to read one again for any Perl module.
 
 To read about L<App::Module::Lister>, look at the embedded
 documentation in the module itself. Inside the distribution, you can
-format it with L<perldoc|http://perldoc.perl.org/perldoc.html>:
+format it with L<perldoc|https://perldoc.perl.orgperldoc.html>:
 
 	% perldoc lib/App/Module/Lister.pm
 
@@ -33,7 +33,7 @@ name instead of the file location:
 	% perldoc App::Module::Lister
 
 You can read the documentation and inspect the meta data at
-L<MetaCPAN|http://www.metacpan.org/module/App::Module::Lister>.
+L<MetaCPAN|https://metacpan.org/pod/App::Module::Lister>.
 
 The standard module documentation has example uses in the SYNOPSIS
 section, but you can also look in the I<examples/> directory (if it's
