@@ -70,3 +70,6 @@
 \.lwpcookies
 \.travis\.yml
 \.appveyor\.yml
+\bMANIFEST\s\d
+\bChanges\s\d
+
