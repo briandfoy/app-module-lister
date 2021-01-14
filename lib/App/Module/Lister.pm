@@ -245,7 +245,7 @@ something like C</usr/local/lib/perl5/5.8.8/Foo/Bar.pm>, which
 translates in the module C<Foo::Bar>. If I find a directory like
 C</usr/local/lib/perl5/5.8.8/lib/Foo/Bar.pm>, where I created the
 extra C<lib> by hand, this program guesses the module name is
-C<lib::Foo::Bar>. That's not a great tradegy, but I don't have a
+C<lib::Foo::Bar>. That's not a great tragedy, but I don't have a
 simple way around that right now.
 
 =item *
