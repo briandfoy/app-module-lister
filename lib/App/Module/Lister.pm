@@ -2,10 +2,7 @@
 package App::Module::Lister;
 use strict;
 
-use subs qw();
-use vars qw($VERSION);
-
-$VERSION = '0.154';
+our $VERSION = '0.154';
 
 =encoding utf8
 
